@@ -1,5 +1,5 @@
 # Cryptocurrency Data Scraper
-This data scraper is a tool which can collect historical cryoptocurrency data at whatever date/time range and frequency the user desires.
+This data scraper is a tool which can collect historical cryoptocurrency data for a given date/time range and sampling frequency.
 
 This tool scrapes a website which does have it's own [terms of service](https://coincodex.com/page/terms-of-service/). By using this tool you are accessing the site, so please adhere to their policies.
 The website's policy on "Prohibited Activites and Restrictions" is copy/pasted below.
