@@ -3,8 +3,8 @@ This data scraper is a tool which can collect historical cryoptocurrency data at
 
 This tool scrapes a website which does have it's own [terms of service](https://coincodex.com/page/terms-of-service/). By using this tool you are accessing the site, so please adhere to their policies.
 The website's policy on "Prohibited Activites and Restrictions" is copy/pasted below.
-> Prohibited Activities and Restrictions
-> "You agree that you will not:
+> **Prohibited Activities and Restrictions**
+> You agree that you will not:
 > - Copy, modify or create derivative works of the Service or any Content.
 > - Copy, manipulate or aggregate any Content (including data) for the purpose of making it available to any third party.
 > - Trade, sell, rent, loan, lease or license any Content or access to the Service, whether commercially or free of charge.
